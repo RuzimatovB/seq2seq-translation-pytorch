@@ -33,7 +33,7 @@ It was developed as part of the IBM AI Engineering Professional Certificate cour
 
 3. Open the Jupyter Notebook:
    ```bash
-   Seq2Seq_Translation_Pytorch.ipynb
+   jupyter notebook Seq2Seq_Translation_Pytorch.ipynb
    ```
 
 ---
