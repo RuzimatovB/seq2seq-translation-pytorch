@@ -22,8 +22,8 @@ It was developed as part of the IBM AI Engineering Professional Certificate cour
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/seq2seq-translation-model.git
-   cd seq2seq-translation-model
+   git clone https://github.com/<your-username>/seq2seq-translation-pytorch.git
+   cd seq2seq-translation-pytorch
    ```
 
 2. Install dependencies:
@@ -33,7 +33,7 @@ It was developed as part of the IBM AI Engineering Professional Certificate cour
 
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Seq2Seq_Translation_Cleaned.ipynb
+   Seq2Seq_Translation_Pytorch.ipynb
    ```
 
 ---
